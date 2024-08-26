@@ -1,0 +1,1 @@
+select * from invoicing.invoices where invoice_id = 2
